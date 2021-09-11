@@ -11,3 +11,4 @@ Spreadsheets of human-robot-interaction work collected during my graduate school
 
 - [Robot/IoT/RPA Companies](https://docs.google.com/spreadsheets/d/1zVgnnMvwBxupf5MWd91i8h0Vfh4hqqu34DqP9_JYEek/edit#gid=0)  _last updated in 2020/06_
 - [Awesome HRI Datasets and Human Simulators](https://github.com/mjyc/awesome-hri-datasets)
+- [Po-Jen/awesome-human-robot-interaction](https://github.com/Po-Jen/awesome-human-robot-interaction)
